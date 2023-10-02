@@ -4,7 +4,7 @@ My name is Aliaksiei, but you can know me as MrTorex. I'm studying in BSUIR. My 
 
 Currently I'm learning such languages as C/C++, C#, Python, Javascript, etc.
 
-My main goal is to create something really cool in the sphere of games. It's my dream since I've been 10 y.o.
+My main goal is to create something really cool and new in the sphere of games. It's my dream since I've been 10 y.o.
 
 I have a lot of experience in creating easy games in Clickteam Fusion Developer, some visual novels in Ren'Py and Unity.
 
