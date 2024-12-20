@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Aliaksiei, but you can know me as MrTorex. I'm studying in BSUIR. My speciality is game design.
+My name is Alaksiej, but you can know me as MrTorex. I'm studying in BSUIR. My speciality is game design.
 
 Currently I'm learning such languages as C/C++, C#, Python, Javascript, etc.
 
